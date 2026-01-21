@@ -4,7 +4,7 @@ A comprehensive Excel-based analysis of retail product sales data to generate ac
 
 ## Project Overview
 
-This project analyzes 101 transactions across four regions, examining product categories, sales representatives, and temporal patterns to identify revenue opportunities and operational efficiencies.
+This project analyzes 100 transactions across four regions, examining product categories, sales representatives, and temporal patterns to identify revenue opportunities and operational efficiencies.
 
 **Analyst:** Gbenovie Obhoo  
 **Contact:** Gbenovieobhoo@gmail.com  
@@ -12,7 +12,7 @@ This project analyzes 101 transactions across four regions, examining product ca
 
 ## Dataset Summary
 
-- **Rows:** 101 transactions
+- **Rows:** 100 transactions
 - **Columns:** 9 fields
 - **Time Period:** January - June
 - **Regions:** East, West, South, North
