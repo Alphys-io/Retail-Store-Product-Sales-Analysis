@@ -91,7 +91,7 @@ This project analyzes 100 transactions across four regions, examining product ca
 
 ## Visualizations
 
-<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/da8d45b3-88ca-4d13-9c1b-1e181778693c" />
+<img width="7995" height="4332" alt="Retail Store Dashboard" src="https://github.com/user-attachments/assets/43625126-097f-486c-ab42-a12c38e9148c" />
  
 The dashboard includes:
 
